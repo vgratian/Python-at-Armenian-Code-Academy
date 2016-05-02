@@ -1,0 +1,287 @@
+[
+  {
+    "_id": "572471c8269427f473b2a293",
+    "index": 0,
+    "guid": "f2249c35-57ff-486d-9e8b-723ffcb3c0d9",
+    "isActive": true,
+    "balance": "$3,837.42",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": {
+      "first": "Rowland",
+      "last": "Ramos"
+    },
+    "company": "FREAKIN",
+    "email": "rowland.ramos@freakin.tv",
+    "phone": "+1 (807) 492-3002",
+    "address": "187 Holmes Lane, Rosewood, Virgin Islands, 164",
+    "about": "Reprehenderit ut aute est occaecat dolore excepteur id eiusmod in minim nostrud excepteur nostrud. Consectetur consequat ut deserunt aute amet veniam commodo. Voluptate et aliquip excepteur in officia eiusmod reprehenderit pariatur sint nisi esse cupidatat ut.",
+    "registered": "Monday, April 6, 2015 6:46 AM",
+    "latitude": "36.515851",
+    "longitude": "41.054501",
+    "tags": [
+      "ullamco",
+      "cillum",
+      "eu",
+      "commodo",
+      "culpa"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rae Bentley"
+      },
+      {
+        "id": 1,
+        "name": "Misty Glenn"
+      },
+      {
+        "id": 2,
+        "name": "Cohen Bright"
+      }
+    ],
+    "greeting": "Hello, Rowland! You have 5 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "572471c889f2f3f937582a21",
+    "index": 1,
+    "guid": "31d62c77-6149-4d6b-a9a8-11416a00b3bd",
+    "isActive": false,
+    "balance": "$1,508.52",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Angela",
+      "last": "Rich"
+    },
+    "company": "ZIALACTIC",
+    "email": "angela.rich@zialactic.info",
+    "phone": "+1 (971) 424-3450",
+    "address": "708 Huntington Street, Kenwood, North Dakota, 1264",
+    "about": "Ad ipsum duis occaecat laboris aute Lorem velit esse minim ut. Ad ea incididunt minim minim tempor pariatur. Ut ea enim commodo irure sit excepteur amet cillum consequat elit ex. Amet in consectetur mollit quis proident ipsum ad enim do non.",
+    "registered": "Wednesday, August 20, 2014 3:50 AM",
+    "latitude": "-10.341503",
+    "longitude": "9.063059",
+    "tags": [
+      "sunt",
+      "adipisicing",
+      "anim",
+      "adipisicing",
+      "aliquip"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hernandez Joyce"
+      },
+      {
+        "id": 1,
+        "name": "Tammi Ferrell"
+      },
+      {
+        "id": 2,
+        "name": "Jill Valdez"
+      }
+    ],
+    "greeting": "Hello, Angela! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "572471c844c4370083fafa9d",
+    "index": 2,
+    "guid": "1cf3af42-ce77-4a4c-947f-1b81e9dab1d1",
+    "isActive": false,
+    "balance": "$1,355.13",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "green",
+    "name": {
+      "first": "Reyes",
+      "last": "Donaldson"
+    },
+    "company": "KIGGLE",
+    "email": "reyes.donaldson@kiggle.io",
+    "phone": "+1 (910) 440-3127",
+    "address": "516 Dennett Place, Wacissa, New Mexico, 5619",
+    "about": "Magna in laboris aliquip cillum cillum qui laborum irure exercitation qui incididunt ullamco ex id. Ad veniam proident consectetur reprehenderit magna. Ex mollit irure aliqua veniam veniam ut magna reprehenderit commodo laboris velit amet velit. Est sit exercitation eu in sunt.",
+    "registered": "Wednesday, January 20, 2016 3:10 PM",
+    "latitude": "-6.71189",
+    "longitude": "-71.892246",
+    "tags": [
+      "dolor",
+      "culpa",
+      "in",
+      "ipsum",
+      "consequat"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Esther Lynn"
+      },
+      {
+        "id": 1,
+        "name": "Margo Garrett"
+      },
+      {
+        "id": 2,
+        "name": "James Mathews"
+      }
+    ],
+    "greeting": "Hello, Reyes! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "572471c8ac503862ff162967",
+    "index": 3,
+    "guid": "8754a446-3b8c-4254-a4f6-c46f9d5c01e8",
+    "isActive": true,
+    "balance": "$1,520.22",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": {
+      "first": "Winifred",
+      "last": "Fischer"
+    },
+    "company": "SEALOUD",
+    "email": "winifred.fischer@sealoud.ca",
+    "phone": "+1 (920) 502-2439",
+    "address": "787 Gotham Avenue, Hoehne, Virginia, 7366",
+    "about": "Ullamco id elit eu incididunt cillum. Fugiat id magna sunt officia deserunt. Ea id esse pariatur est incididunt officia laboris in laborum irure nulla et exercitation. Ea officia anim sit laboris nisi exercitation eiusmod id. Consectetur voluptate do proident esse ullamco eu consectetur pariatur duis quis. Nostrud in sit magna amet quis adipisicing laboris enim officia cillum ipsum excepteur proident. Elit mollit voluptate Lorem elit nisi dolore laboris consequat cupidatat dolor elit qui.",
+    "registered": "Sunday, December 6, 2015 9:59 PM",
+    "latitude": "20.237682",
+    "longitude": "-142.101754",
+    "tags": [
+      "est",
+      "deserunt",
+      "aliqua",
+      "id",
+      "nulla"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Karina Moore"
+      },
+      {
+        "id": 1,
+        "name": "Cardenas Haley"
+      },
+      {
+        "id": 2,
+        "name": "Jefferson Rivers"
+      }
+    ],
+    "greeting": "Hello, Winifred! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "572471c8633d6948b1b8dc8d",
+    "index": 4,
+    "guid": "bbf31152-74f9-4516-8a81-7c11434e1285",
+    "isActive": false,
+    "balance": "$1,551.41",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Walls",
+      "last": "Lawrence"
+    },
+    "company": "MOLTONIC",
+    "email": "walls.lawrence@moltonic.biz",
+    "phone": "+1 (870) 456-2583",
+    "address": "211 Kensington Walk, Dyckesville, Guam, 732",
+    "about": "Adipisicing elit qui ad incididunt quis fugiat Lorem ex veniam elit ex. Laborum pariatur laboris officia sit ex dolore id est dolor nostrud. Veniam Lorem ullamco incididunt quis anim consequat adipisicing Lorem do exercitation do pariatur.",
+    "registered": "Friday, January 30, 2015 11:45 PM",
+    "latitude": "21.110922",
+    "longitude": "61.070369",
+    "tags": [
+      "eiusmod",
+      "magna",
+      "mollit",
+      "laboris",
+      "reprehenderit"
+    ],
+    "range": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Brock Oneill"
+      },
+      {
+        "id": 1,
+        "name": "Johnson Perez"
+      },
+      {
+        "id": 2,
+        "name": "Serena Orr"
+      }
+    ],
+    "greeting": "Hello, Walls! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
