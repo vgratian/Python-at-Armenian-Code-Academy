@@ -1,11 +1,11 @@
-# Simple Calcultor capable only of one simple calculation
-# Accepted input: integer operator integer (divided by space!)
-# Accepted operators: '+', '-', '*', '/'
+# Simple Calculator capable only of one simple calculation
+# Accepted input format: integer operator integer (divided by space!)
+# Accepted operators: '+', '-', '*', '/'.
 
 string_input = raw_input('Hi, I am Simple Calc 1.0 \nHow can I help you? \n')
 
 # Splits input into 3 elements (integer operator integer)
-split_string = string_input.split(' ')
+split_string = string_input.split()
 
 # Identifies operator and prints result of calculation
 if split_string[1] == '+':
